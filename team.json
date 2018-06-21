@@ -6,6 +6,17 @@
     "devices": [ "mata", "berkeley" ],
     "xdaThreads": [ "https://forum.xda-developers.com/essential-phone/development/rom-kernel-01-15-18-invictrix-rom-8-1-t3735343", "TBD"],
     "duties": "Team Lead, Website Maintainer, Bot Builder, ROM Developer, OTA Admin",
-    "email": "jacob.a.mcswain@invictrixrom.com"
+    "email": "jacob.a.mcswain@invictrixrom.com",
+    "avatar": ""
+  },
+  {
+    "name": "Michael S Corigliano (Mike Criggs)",
+    "telegramUsername": "mikecriggs",
+    "xdaUsername": "mikecriggs",
+    "devices": [ "angler", "berkeley", "shamu" ],
+    "xdaThreads": [ "https://forum.xda-developers.com/nexus-6p/orig-development/rom-invictrix-rom-8-1-t3807400" ],
+    "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
+    "email": "michael.s.corigliano@gmail.com",
+    "avatar": "criggs.png"
   }
 ]
