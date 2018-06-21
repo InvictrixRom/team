@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Jacob McSwain",
+    "telegramUsername": "USA_RedDragon",
+    "xdaUsername": "USA-RedDragon",
+    "devices": [ "mata", "berkeley" ],
+    "xdaThreads": [ "https://forum.xda-developers.com/essential-phone/development/rom-kernel-01-15-18-invictrix-rom-8-1-t3735343", "TBD"],
+    "duties": "Team Lead, Website Maintainer, Bot Builder, ROM Developer, OTA Admin",
+    "email": "jacob.a.mcswain@invictrixrom.com"
+  }
+]
