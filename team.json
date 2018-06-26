@@ -18,5 +18,15 @@
     "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
     "email": "michael.s.corigliano@gmail.com",
     "avatar": "criggs.png"
+  },
+  {
+    "name": "Curtis G",
+    "telegramUsername": "NepoRood",
+    "xdaUsername": "Nepo Rood",
+    "devices": [ "marlin", "sailfish" ],
+    "xdaThreads": [ "https://forum.xda-developers.com/pixel-xl/development/rom-invictrix-8-1-t3809565", "TBD"],
+    "duties": "Pixel Maintainer",
+    "email": "neporood@gmail.com",
+    "avatar": "nepo-gr.png"
   }
 ]
