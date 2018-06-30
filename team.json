@@ -28,5 +28,15 @@
     "duties": "Pixel Maintainer",
     "email": "neporood@gmail.com",
     "avatar": "nepo-gr.png"
+  },
+  {
+    "name": "Joel Hans",
+    "telegramUsername": "coldhans",
+    "xdaUsername": "coldhans",
+    "devices": [ "potter", "kiwi" ],
+    "xdaThreads": [ "https://forum.xda-developers.com/g5-plus/development/rom-invictrixrom-moto-g5-plus-potter-t3810358", "TBD"],
+    "duties": "Device Maintainer",
+    "email": "coldhans@protonmail.com",
+    "avatar": "coldhans.png"
   }
 ]
