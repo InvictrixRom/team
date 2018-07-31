@@ -48,5 +48,15 @@
     "duties": "Device Maintainer",
     "email": "coldhans@protonmail.com",
     "avatar": "coldhans.png"
+  },
+  {
+    "name": "Anirudh Gupta",
+    "telegramUsername": "anirudhgupta109",
+    "xdaUsername": "anirudhgupta109",
+    "devices": [ "bullhead" ],
+    "xdaThreads": [ "TBD" ],
+    "duties": "Device Maintainer",
+    "email": "anirudhgupta109@gmail.com",
+    "avatar": "anirudhgupta.png"
   }
 ]
