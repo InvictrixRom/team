@@ -3,11 +3,11 @@
     "name": "Jacob McSwain",
     "telegramUsername": "USA_RedDragon",
     "xdaUsername": "USA-RedDragon",
-    "devices": [ "mata", "berkeley" ],
-    "xdaThreads": [ "https://forum.xda-developers.com/essential-phone/development/rom-kernel-01-15-18-invictrix-rom-8-1-t3735343", "TBD"],
-    "duties": "Team Lead, Website Maintainer, Bot Builder, ROM Developer, OTA Admin",
-    "email": "jacob.a.mcswain@invictrixrom.com",
-    "avatar": ""
+    "devices": [ "mata", "marlin" ],
+    "xdaThreads": [ "TBD", "TBD"],
+    "duties": "Team Lead, Website Maintainer, Bot Builder, ROM Developer, OTA Admin, Backend Developer, Infrastructure Master",
+    "email": "jacob.a.mcswain@gmail.com",
+    "avatar": "reddragon.jpg"
   },
   {
   "name": "Dillon Brosche",
@@ -28,35 +28,5 @@
     "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
     "email": "michael.s.corigliano@gmail.com",
     "avatar": "criggs.png"
-  },
-  {
-    "name": "Curtis G",
-    "telegramUsername": "NepoRood",
-    "xdaUsername": "Nepo Rood",
-    "devices": [ "marlin", "sailfish" ],
-    "xdaThreads": [ "https://forum.xda-developers.com/pixel-xl/development/rom-invictrix-8-1-t3809565", "TBD"],
-    "duties": "Pixel Maintainer",
-    "email": "neporood@gmail.com",
-    "avatar": "nepo-gr.png"
-  },
-  {
-    "name": "Joel Hans",
-    "telegramUsername": "coldhans",
-    "xdaUsername": "coldhans",
-    "devices": [ "potter", "kiwi" ],
-    "xdaThreads": [ "https://forum.xda-developers.com/g5-plus/development/rom-invictrixrom-moto-g5-plus-potter-t3810358", "TBD"],
-    "duties": "Device Maintainer",
-    "email": "coldhans@protonmail.com",
-    "avatar": "coldhans.png"
-  },
-  {
-    "name": "Anirudh Gupta",
-    "telegramUsername": "anirudhgupta109",
-    "xdaUsername": "anirudhgupta109",
-    "devices": [ "bullhead" ],
-    "xdaThreads": [ "TBD" ],
-    "duties": "Device Maintainer",
-    "email": "anirudhgupta109@gmail.com",
-    "avatar": "anirudhgupta.png"
   }
 ]
