@@ -20,7 +20,7 @@
   "avatar": "me2151.jpg"
   },
   {
-    "name": "Michael S Corigliano (Mike Criggs)",
+    "name": "Michael Corigliano",
     "telegramUsername": "mikecriggs",
     "xdaUsername": "mikecriggs",
     "devices": [ "angler", "berkeley", "shamu" ],
@@ -28,5 +28,15 @@
     "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
     "email": "michael.s.corigliano@gmail.com",
     "avatar": "criggs.png"
+  },
+  {
+    "name": "Randall Rushing",
+    "telegramUsername": "bigrushdog",
+    "xdaUsername": "bigrushdog",
+    "devices": [ "", "", "" ],
+    "xdaThreads": [ "" ],
+    "duties": "Some dude who just showed up",
+    "email": "fuckifiknow@gmail.com",
+    "avatar": "randall.png"
   }
 ]
