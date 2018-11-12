@@ -4,19 +4,15 @@
     "telegramUsername": "USA_RedDragon",
     "xdaUsername": "USA-RedDragon",
     "devices": [ "mata", "marlin" ],
-    "xdaThreads": [ "TBD", "TBD"],
     "duties": "Team Lead, Website Maintainer, Bot Builder, ROM Developer, OTA Admin, Backend Developer, Infrastructure Master",
-    "email": "jacob.a.mcswain@gmail.com",
     "avatar": "reddragon.jpg"
   },
   {
   "name": "Dillon Brosche",
   "telegramUsername": "me2151XDA",
   "xdaUsername": "me2151",
-  "devices": [ "TBD" ],
-  "xdaThreads": [ "TBD" ],
+  "devices": [],
   "duties": "Website Maintainer, ROM Developer, Chat Moderator",
-  "email": "me2151@invictrixrom.com",
   "avatar": "me2151.jpg"
   },
   {
@@ -26,17 +22,14 @@
     "devices": [ "angler", "berkeley", "shamu" ],
     "xdaThreads": [ "https://forum.xda-developers.com/nexus-6p/orig-development/rom-invictrix-rom-8-1-t3807400" ],
     "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
-    "email": "michael.s.corigliano@gmail.com",
     "avatar": "criggs.png"
   },
   {
     "name": "Randall Rushing",
     "telegramUsername": "bigrushdog",
     "xdaUsername": "bigrushdog",
-    "devices": [ "", "", "" ],
-    "xdaThreads": [ "" ],
+    "devices": [],
     "duties": "Some dude who just showed up",
-    "email": "fuckifiknow@gmail.com",
     "avatar": "randall.png"
   }
 ]
