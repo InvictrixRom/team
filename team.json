@@ -16,20 +16,19 @@
   "avatar": "me2151.jpg"
   },
   {
-    "name": "Michael Corigliano",
-    "telegramUsername": "mikecriggs",
-    "xdaUsername": "mikecriggs",
-    "devices": [ "angler", "berkeley", "shamu" ],
-    "xdaThreads": [ "https://forum.xda-developers.com/nexus-6p/orig-development/rom-invictrix-rom-8-1-t3807400" ],
-    "duties": "Code Contributor, Code Reviewer, Graphics Contributor, Angler Maintainer",
-    "avatar": "criggs.png"
+    "name": "Eddie Moceri",
+    "telegramUsername": "Eddie2Strings",
+    "xdaUsername": "",
+    "devices": [],
+    "duties": "Developer",
+    "avatar": "eddie.jpg"
   },
   {
-    "name": "Randall Rushing",
-    "telegramUsername": "bigrushdog",
-    "xdaUsername": "bigrushdog",
+    "name": "Dustin Wanner",
+    "telegramUsername": "dwanner",
+    "xdaUsername": "",
     "devices": [],
-    "duties": "Some dude who just showed up",
-    "avatar": "randall.png"
+    "duties": "Artist",
+    "avatar": "dustin.jpg"
   }
 ]
